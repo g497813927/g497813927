@@ -15,6 +15,7 @@
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g497813927&langs_count=8&layout=compact" alt="Techzjc's Top Language Usage Stats">
 </div>
+
 ---
 
 ### Other Skills:
