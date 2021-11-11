@@ -38,7 +38,7 @@
 
 * 🎞 Video Editing
 
-* 🎵 Listen Music
+* 🎵 Listen to Music
 
 * 🕹 Playing Games
 
@@ -50,7 +50,7 @@
 
 ### Contacts:
 
-* You can contact with me by [Email](mailto:admin@techzjc.com) or [Telegram](https://t.me/techzjc).
+* You can contact me by [Email](mailto:admin@techzjc.com) or [Telegram](https://t.me/techzjc).
 
 * Follow me on [Bilibili](https://space.bilibili.com/30023942) or [Twitter](https://twitter.com/techzjc) Channel
 * [My Site](https://www.techzjc.com/index_en-US.html)
