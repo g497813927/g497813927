@@ -6,6 +6,7 @@
 <ul> 🗓 19 years old</ul>
 <ul> 🎒 Computer Science Major</ul>
 <ul> 🎓 Virginia Tech Undergraduate Class of 2025</ul>
+<ul> 📝 Mod of <a href="https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html" style="text-decoration: underline dotted;">Bilibili User FeedBack Forum</a></ul>
 <br>
 </div>
 
@@ -53,9 +54,9 @@
 ### Contacts:
 
 * You can contact me by [Email](mailto:admin@techzjc.com) or [Telegram](https://t.me/techzjc).
-
 * Follow me on [Bilibili](https://space.bilibili.com/30023942) or [Twitter](https://twitter.com/techzjc) Channel
 * [My Site](https://www.techzjc.com/index_en-US.html)
+* [GPG key](https://github.com/g497813927.gpg)
 
 ```java
 keep.coding()
