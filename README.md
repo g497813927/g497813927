@@ -1,6 +1,8 @@
 ## Welcome to my GitHub Profile Page 👋
+> <a href="./README-zh-CN.md" style="text-decoration: underline dotted;">简体中文</a>
 
 <div>
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=g497813927&count_private=true&show_icons=true&include_all_commits=true" alt="Techzjc's GitHub Stats">
 <h3>My Bio:</h3>
 <ul> 🗓 19 years old</ul>
@@ -13,7 +15,7 @@
 
 ---
 
-### My Frequent Used Programming Language:
+### My Frequent Used Programming Language
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g497813927&langs_count=8&layout=compact" alt="Techzjc's Top Language Usage Stats">
