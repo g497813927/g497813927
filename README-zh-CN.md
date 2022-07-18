@@ -5,7 +5,7 @@
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=g497813927&count_private=true&show_icons=true&include_all_commits=true" alt="Techzjc's GitHub Stats">
 <h3>个人介绍:</h3>
-<ul> 🗓 19周岁</ul>
+<ul> 🗓 20周岁</ul>
 <ul> 🎒 计算机科学专业</ul>
 <ul> 🎓 弗吉尼亚理工大学2025届本科生</ul>
 <ul> 📝 <a href="https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html" style="text-decoration: underline dotted;">哔哩哔哩社区中心</a>版主</ul>
