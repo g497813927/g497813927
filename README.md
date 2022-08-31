@@ -3,7 +3,7 @@
 
 <div>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=g497813927&count_private=true&show_icons=true&include_all_commits=true" alt="Techzjc's GitHub Stats">
+<img align="right" src="https://vercel-oye9vz1dx-g497813927.vercel.app/api?username=g497813927&count_private=true&show_icons=true&include_all_commits=true" alt="Techzjc's GitHub Stats">
 <h3>My Bio:</h3>
 <ul> 🗓 20 years old</ul>
 <ul> 🎒 Computer Science Major</ul>
@@ -18,7 +18,7 @@
 ### My Frequent Used Programming Language
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g497813927&langs_count=8&layout=compact" alt="Techzjc's Top Language Usage Stats">
+<img src="https://vercel-oye9vz1dx-g497813927.vercel.app/api/top-langs/?username=g497813927&langs_count=8&layout=compact" alt="Techzjc's Top Language Usage Stats">
 </div>
 
 ---

@@ -3,7 +3,7 @@
 > <a href="./README.md" style="text-decoration: underline dotted;">English Version</a>
 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=g497813927&count_private=true&show_icons=true&include_all_commits=true" alt="Techzjc's GitHub Stats">
+<img align="right" src="https://vercel-oye9vz1dx-g497813927.vercel.app/api?username=g497813927&count_private=true&show_icons=true&include_all_commits=true" alt="Techzjc's GitHub Stats">
 <h3>个人介绍:</h3>
 <ul> 🗓 20周岁</ul>
 <ul> 🎒 计算机科学专业</ul>
@@ -19,7 +19,7 @@
 ### 我最常用的编程语言
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g497813927&langs_count=8&layout=compact" alt="Techzjc's Top Language Usage Stats">
+<img src="https://vercel-oye9vz1dx-g497813927.vercel.app/api/top-langs/?username=g497813927&langs_count=8&layout=compact" alt="Techzjc's Top Language Usage Stats">
 </div>
 
 ---
