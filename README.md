@@ -1,4 +1,5 @@
 ## Welcome to my GitHub Profile Page 👋
+
 > <a href="./README-zh-CN.md" style="text-decoration: underline dotted;">简体中文</a>
 
 <div>
@@ -22,6 +23,13 @@
 <div align=center>
 <img src="https://vercel-g497813927.vercel.app/api/top-langs/?username=g497813927&langs_count=8&layout=compact" alt="Techzjc's Top Language Usage Stats">
 </div>
+
+---
+
+### Research Experience
+
+* [CSGenome Project](https://csgenome.org)
+  * Backend Development, Client API (Spring 2023 - Present)
 
 ---
 
