@@ -6,7 +6,7 @@
 <br>
 <img align="right" src="https://vercel-g497813927.vercel.app/api?username=g497813927&count_private=true&show_icons=true&include_all_commits=true" alt="Techzjc's GitHub Stats">
 <h3>My Bio:</h3>
-<ul> 🗓 20 years old</ul>
+<ul> 🗓 21 years old</ul>
 <ul> 🎒 Computer Science Major &amp; Cinema Minor</ul>
 <ul> 🎓 Virginia Tech Undergraduate Class of 2025</ul>
 <ul> 👨‍💻 VT CS2104 Undergraduate Teaching Assistant (UTA) (Spring 2023)</ul>
@@ -29,7 +29,7 @@
 ### Research Experience
 
 * [CSGenome Project](https://csgenome.org)
-  * Backend Development, Client API (Spring 2023 - Present)
+  * Backend Development, Client API (Spring 2023)
 
 ---
 

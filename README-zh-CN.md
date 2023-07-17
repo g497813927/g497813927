@@ -5,7 +5,7 @@
 <div>
 <img align="right" src="https://vercel-g497813927.vercel.app/api?username=g497813927&count_private=true&show_icons=true&include_all_commits=true" alt="Techzjc's GitHub Stats">
 <h3>个人介绍:</h3>
-<ul> 🗓 20周岁</ul>
+<ul> 🗓 21周岁</ul>
 <ul> 🎒 主修计算机科学专业 &amp; 辅修电影专业</ul>
 <ul> 🎓 弗吉尼亚理工大学2025届本科生</ul>
 <ul> 👨‍💻 弗吉尼亚理工大学2023年春季CS2104课程本科生助教 (UTA)</ul>
@@ -29,7 +29,7 @@
 ### 研究项目经历
 
 * [CSGenome 项目](https://csgenome.org)
-  * 后端/客户端API 开发 (2023年春季至今)
+  * 后端/客户端API 开发 (2023年春季)
 
 
 ---
