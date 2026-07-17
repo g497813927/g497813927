@@ -5,7 +5,7 @@
 
 ### 个人介绍:
 
-🗓 23周岁
+🗓 24周岁
 
 🎓 就读于弗吉尼亚理工大学
    - `计算机科学与应用理学硕士` 2027届
@@ -28,7 +28,7 @@
 ### 研究项目经历
 
 * DiaryQuest
-  * 全栈开发 (2024年春季 - 至今)
+  * 全栈开发 (2024年春季 - 2025年秋季)
 * [CSGenome 项目](https://csgenome.org)
   * 后端/客户端API 开发 (2023年春季)
 
@@ -37,8 +37,12 @@
 
 ### 发表论文
 
-* Oh, S., **Zhao, J.**, Russo, C., & Bolmer, M. (2025). Boosting Diary Study Outcomes with a Fine-Tuned Large Language Model. Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 1–7. https://doi.org/10.1145/3706599.3719287
-* **Zhao, J.**, Horrall, J., Gaudian, W., Jordan, P., Chavan, P., Rana, A., & Snr, Y. (2025). DiaryQuest: A Web-Based Learning System Utilizing Diary Study. Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2, 1765. https://doi.org/10.1145/3641555.3705023
+* Jixiang Fan, Wei-Lu Wang, Jiahui Song, **Jiacheng Zhao**, Lei Xia, and D. Scott McCrickard 2026. Unpacking Empathy Development in HCI Learners: Patterns from Diary Reflections and Peer Discussions. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26). Barcelona, Spain. doi: 10.1145/3772363.3798329
+* Jixiang Fan, **Jiacheng Zhao**, and Scott McCrickard 2026. Diary Study for Fostering Collaboration and Student Voice. In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE TS '26). (St. Louis, MO, USA). doi: 10.1145/3770761.3777186
+* Sunggyeol Oh, **Jiacheng Zhao**, Carson Russo, Michael Bolmer Jr., Jihoo Jeong, Jixiang Fan, Yusheng Cao, Wei-Lu Wang, Natalie Andrus, and Scott McCrickard 2025. Optimizing Diary Studies Learning Outcomes with Fine-Tuned Large Language Models on the Diaryquest Platform. In 2025 IEEE Frontiers in Education Conference (FIE). IEEE, Nashville, TN, USA. doi: 10.1109/FIE63693.2025.11328660
+* Jixiang Fan, **Jiacheng Zhao**, Sunggyeol Oh, Michael Bolmer Jr., Yoonje Lee, Nick Flammer, Yuhao Chen, and D. Scott McCrickard 2025. Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion. In Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25 Companion). Bergen, Norway. doi: 10.1145/3715070.3749233
+* Sunggyeol Oh, **Jiacheng Zhao**, Carson Russo, and Michael Bolmer Jr. 2025. Boosting Diary Study Outcomes with a Fine-Tuned Large Language Model. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). Yokohama, Japan. doi: 10.1145/3706599.3719287
+* **Jiacheng Zhao**, Jordan Horrall, William Gaudian, Phillip Jordan, Pallavi Chavan, Aditya Rana, and Yaw Owusu Sr. 2025. DiaryQuest: A Web-Based Learning System Utilizing Diary Study. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE TS '25). (Pittsburgh, PA, USA). doi: 10.1145/3641555.3705023
 
 ---
 
